@@ -29,8 +29,3 @@
 ![Bootstrap](https://img.shields.io/static/v1?style=flat-square&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=flat-square&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![JSON](https://img.shields.io/static/v1?style=flat-square&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
-
-#### 🖥️ Some stat
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=on15floor&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=on15floor&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=on15floor&theme=dracula)
