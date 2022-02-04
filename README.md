@@ -2,10 +2,6 @@
 <p align='center'> I live in Russia, Moscow and work as a backend python developer. </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=on15floor.on15floor&left_color=blue&right_color=4AB197"></a>
-</p>
-
-<p align='center'>
   <a href="https://lab15.ru/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lab15.ru&color=FFFF00&logoColor=Black&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/on15floor/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:on15floor@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
