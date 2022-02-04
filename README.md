@@ -30,3 +30,4 @@
 ![Linux](https://img.shields.io/static/v1?style=flat-square&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![JSON](https://img.shields.io/static/v1?style=flat-square&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat-square&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Mercurial](https://img.shields.io/static/v1?style=flat-square&message=Mercurial&color=999999&logo=Mercurial&logoColor=FFFFFF&label=)
